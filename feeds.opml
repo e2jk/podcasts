@@ -18,8 +18,10 @@
     <outline text="Get-It-Done Guy's Quick and Dirty Tips to Work Less and Do More" title="Get-It-Done Guy's Quick and Dirty Tips to Work Less and Do More" type="rss" xmlUrl="http://www.quickanddirtytips.com/xml/getitdone.xml" htmlUrl="http://www.quickanddirtytips.com/get-it-done-guy"/>
     <outline text="GTD® Virtual Study Group" title="GTD® Virtual Study Group" type="rss" xmlUrl="http://feeds.feedburner.com/GtdVirtualStudyGroup" htmlUrl="http://www.gtdvsg.com"/>
     <outline text="Hacker Public Radio" title="Hacker Public Radio" type="rss" xmlUrl="http://hackerpublicradio.org/hpr_ogg_rss.php" htmlUrl="http://hackerpublicradio.org/about.php"/>
+    <outline text="Hiyaa Martial Arts Podcast" title="Hiyaa Martial Arts Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/HiyaaMartialArtsPodcast" htmlUrl="http://www.hiyaapodcast.com"/>
     <outline text="Journal de 19h" title="Journal de 19h" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_11736.xml" htmlUrl="http://www.radiofrance.fr/chaines/france-inter01/information/journaux/"/>
     <outline text="La marche de l'histoire" title="La marche de l'histoire" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_11739.xml" htmlUrl="http://www.radiofrance.fr/"/>
+    <outline text="Linux Luddites » Ogg" title="Linux Luddites » Ogg" type="rss" xmlUrl="http://feeds.feedburner.com/LinuxLudditesOgg" htmlUrl="http://linuxluddites.com"/>
     <outline text="Linux Outlaws" title="Linux Outlaws" type="rss" xmlUrl="http://feeds.feedburner.com/linuxoutlaws-ogg" htmlUrl="http://sixgun.org"/>
     <outline text="Linux Voice Podcast" title="Linux Voice Podcast" type="rss" xmlUrl="http://www.linuxvoice.com/podcast_ogg.rss" htmlUrl="http://www.linuxvoice.com/podcast_ogg.rss"/>
     <outline text="NPR: Planet Money Podcast" title="NPR: Planet Money Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" htmlUrl="http://www.npr.org/planetmoney"/>
@@ -37,6 +39,7 @@
     <outline text="The Dick Turpin Road Show" title="The Dick Turpin Road Show" type="rss" xmlUrl="http://feeds.feedburner.com/tdtrs" htmlUrl="http://tdtrs.co.uk/"/>
     <outline text="The Moth Podcast" title="The Moth Podcast" type="rss" xmlUrl="http://feeds.themoth.org/themothpodcast" htmlUrl="http://themoth.prx.org"/>
     <outline text="The Peace Revolution Podcast" title="The Peace Revolution Podcast" type="rss" xmlUrl="http://peacerevolution.podomatic.com/rss2.xml" htmlUrl="http://peacerevolution.podomatic.com"/>
+    <outline text="The Skeptics' Guide to the Universe" title="The Skeptics' Guide to the Universe" type="rss" xmlUrl="http://www.theskepticsguide.org/feed/rss.aspx?feed=SGU" htmlUrl="http://www.theskepticsguide.org/podcast/sgu"/>
     <outline text="This American Life" title="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="http://www.thisamericanlife.org"/>
     <outline text="Ubuntu Podcast » ogg" title="Ubuntu Podcast » ogg" type="rss" xmlUrl="http://feeds.feedburner.com/UbuntuUkPodcastOgg-high?format=xml" htmlUrl="http://podcast.ubuntu-uk.org"/>
   </body>
