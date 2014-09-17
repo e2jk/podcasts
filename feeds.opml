@@ -5,12 +5,9 @@
   </head>
   <body>
     <outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="http://99percentinvisible.prx.org"/>
-    <outline text="A History Of - Hannibal and the Punic Wars" title="A History Of - Hannibal and the Punic Wars" type="rss" xmlUrl="https://ia700801.us.archive.org/8/items/HannibalFeed/HistoryHannibalandthePunicWars.XML" htmlUrl="http://www.thehistoryofpodcast.com"/>
-    <outline text="A History Of: Alexander - Remastered" title="A History Of: Alexander - Remastered" type="rss" xmlUrl="https://ia601204.us.archive.org/27/items/AlexanderFeed/AlexanderHistoryRemastered.XML" htmlUrl="http://thehistoryofpodcast.blogspot.com"/>
     <outline text="Bad Voltage » Ogg Vorbis" title="Bad Voltage » Ogg Vorbis" type="rss" xmlUrl="http://www.badvoltage.org/feed/ogg/" htmlUrl="http://www.badvoltage.org"/>
     <outline text="Benjamen Walker's Theory of Everything" title="Benjamen Walker's Theory of Everything" type="rss" xmlUrl="http://toe.prx.org/feed/" htmlUrl="http://toe.prx.org"/>
     <outline text="Beyond the To Do List | Personal Productivity Perspectives" title="Beyond the To Do List | Personal Productivity Perspectives" type="rss" xmlUrl="http://feeds2.noodle.mx/beyondthetodolist" htmlUrl="http://beyondthetodolist.com"/>
-    <outline text="Black Sparrow Media Network" title="Black Sparrow Media Network" type="rss" xmlUrl="http://blacksparrowmedia.net/feed" htmlUrl="http://blacksparrowmedia.net"/>
     <outline text="CRE: Technik, Kultur, Gesellschaft" title="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="http://cre.fm/feed/oga" htmlUrl="http://cre.fm"/>
     <outline text="FLOSS Weekly (MP3)" title="FLOSS Weekly (MP3)" type="rss" xmlUrl="http://leo.am/podcasts/floss" htmlUrl="http://twit.tv/floss"/>
     <outline text="Freakonomics Radio" title="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnyc.org/articles/freakonomics-podcast/"/>
@@ -32,14 +29,15 @@
     <outline text="Security Now (MP3)" title="Security Now (MP3)" type="rss" xmlUrl="http://leo.am/podcasts/sn" htmlUrl="http://twit.tv/sn"/>
     <outline text="SourceTrunk" title="SourceTrunk" type="rss" xmlUrl="http://feeds.feedburner.com/sourcetrunk_ogg" htmlUrl="http://www.sourcetrunk.com/ogg.rss"/>
     <outline text="Steel Rain (Ogg Feed)" title="Steel Rain (Ogg Feed)" type="rss" xmlUrl="http://sixgun.org/feed/steelrain-ogg" htmlUrl="http://sixgun.org"/>
-    <outline text="Strangers" title="Strangers" type="rss" xmlUrl="http://feeds.kcrw.com/kcrw/sg" htmlUrl="http://strangers.prx.org"/>
+    <outline text="Strangers" title="Strangers" type="rss" xmlUrl="http://feeds.kcrw.com/kcrw/sg" htmlUrl="http://www.storycentral.org/"/>
     <outline text="Sunday Morning Linux Review – MP3 Feed" title="Sunday Morning Linux Review – MP3 Feed" type="rss" xmlUrl="http://feeds.feedburner.com/SundayMorningLinuxReview-Mp3Feed?format=xml" htmlUrl="http://smlr.us"/>
     <outline text="The Changelog" title="The Changelog" type="rss" xmlUrl="http://feeds.5by5.tv/changelog" htmlUrl="http://5by5.tv/changelog"/>
     <outline text="The Command Line Podcast" title="The Command Line Podcast" type="rss" xmlUrl="http://feeds.thecommandline.net/cmdln" htmlUrl="http://thecommandline.net/"/>
+    <outline text="The Dave Ramsey Show Podcast - 3 hrs" title="The Dave Ramsey Show Podcast - 3 hrs" type="rss" xmlUrl="http://www.mytotalmoneymakeover.com/index.cfm?event=get3HourPodcastFeed&amp;podcastXXToken=8E056E06EE3BCF3DA58E7BC85D9B0967817500FA0BCF8679163C76474AEE0EAE.xml" htmlUrl="http://www.daveramsey.com/"/>
     <outline text="The Dick Turpin Road Show" title="The Dick Turpin Road Show" type="rss" xmlUrl="http://feeds.feedburner.com/tdtrs" htmlUrl="http://tdtrs.co.uk/"/>
     <outline text="The Moth Podcast" title="The Moth Podcast" type="rss" xmlUrl="http://feeds.themoth.org/themothpodcast" htmlUrl="http://themoth.prx.org"/>
     <outline text="The Peace Revolution Podcast" title="The Peace Revolution Podcast" type="rss" xmlUrl="http://peacerevolution.podomatic.com/rss2.xml" htmlUrl="http://peacerevolution.podomatic.com"/>
-    <outline text="The Skeptics' Guide to the Universe" title="The Skeptics' Guide to the Universe" type="rss" xmlUrl="http://www.theskepticsguide.org/feed/rss.aspx?feed=SGU" htmlUrl="http://www.theskepticsguide.org/podcast/sgu"/>
+    <outline text="The Radical Personal Finance Podcast: Financial Planning | Budgeting | Frugality | Investing | Lifestyle Design | Financial Independence" title="The Radical Personal Finance Podcast: Financial Planning | Budgeting | Frugality | Investing | Lifestyle Design | Financial Independence" type="rss" xmlUrl="http://radicalpersonalfinance.com/feed/" htmlUrl="http://radicalpersonalfinance.com"/>
     <outline text="This American Life" title="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="http://www.thisamericanlife.org"/>
     <outline text="Ubuntu Podcast » ogg" title="Ubuntu Podcast » ogg" type="rss" xmlUrl="http://feeds.feedburner.com/UbuntuUkPodcastOgg-high?format=xml" htmlUrl="http://podcast.ubuntu-uk.org"/>
   </body>
