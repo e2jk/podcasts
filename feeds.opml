@@ -6,7 +6,6 @@
   <body>
     <outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="http://99percentinvisible.prx.org"/>
     <outline text="Bad Voltage » Ogg Vorbis" title="Bad Voltage » Ogg Vorbis" type="rss" xmlUrl="http://www.badvoltage.org/feed/ogg/" htmlUrl="http://www.badvoltage.org"/>
-    <outline text="Benjamen Walker's Theory of Everything" title="Benjamen Walker's Theory of Everything" type="rss" xmlUrl="http://toe.prx.org/feed/" htmlUrl="http://toe.prx.org"/>
     <outline text="Beyond the To Do List | Personal Productivity Perspectives" title="Beyond the To Do List | Personal Productivity Perspectives" type="rss" xmlUrl="http://feeds2.noodle.mx/beyondthetodolist" htmlUrl="http://beyondthetodolist.com"/>
     <outline text="CRE: Technik, Kultur, Gesellschaft" title="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="http://cre.fm/feed/oga" htmlUrl="http://cre.fm"/>
     <outline text="FLOSS Weekly (MP3)" title="FLOSS Weekly (MP3)" type="rss" xmlUrl="http://leo.am/podcasts/floss" htmlUrl="http://twit.tv/floss"/>
@@ -27,9 +26,10 @@
     <outline text="Rendez-vous avec X" title="Rendez-vous avec X" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_14726.xml" htmlUrl="http://www.radiofrance.fr/franceinter/em/rendezvousavecx/"/>
     <outline text="School Sucks Project » Podcasts" title="School Sucks Project » Podcasts" type="rss" xmlUrl="http://schoolsucksproject.com/category/podcast/feed" htmlUrl="http://schoolsucksproject.com"/>
     <outline text="Security Now (MP3)" title="Security Now (MP3)" type="rss" xmlUrl="http://leo.am/podcasts/sn" htmlUrl="http://twit.tv/sn"/>
+    <outline text="Serial" title="Serial" type="rss" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="http://serialpodcast.org"/>
     <outline text="SourceTrunk" title="SourceTrunk" type="rss" xmlUrl="http://feeds.feedburner.com/sourcetrunk_ogg" htmlUrl="http://www.sourcetrunk.com/ogg.rss"/>
+    <outline text="StartUp Podcast" title="StartUp Podcast" type="rss" xmlUrl="http://feeds.hearstartup.com/hearstartup" htmlUrl="http://hearstartup.com"/>
     <outline text="Steel Rain (Ogg Feed)" title="Steel Rain (Ogg Feed)" type="rss" xmlUrl="http://sixgun.org/feed/steelrain-ogg" htmlUrl="http://sixgun.org"/>
-    <outline text="Strangers" title="Strangers" type="rss" xmlUrl="http://feeds.kcrw.com/kcrw/sg" htmlUrl="http://www.storycentral.org/"/>
     <outline text="Sunday Morning Linux Review – MP3 Feed" title="Sunday Morning Linux Review – MP3 Feed" type="rss" xmlUrl="http://feeds.feedburner.com/SundayMorningLinuxReview-Mp3Feed?format=xml" htmlUrl="http://smlr.us"/>
     <outline text="The Changelog" title="The Changelog" type="rss" xmlUrl="http://feeds.5by5.tv/changelog" htmlUrl="http://5by5.tv/changelog"/>
     <outline text="The Command Line Podcast" title="The Command Line Podcast" type="rss" xmlUrl="http://feeds.thecommandline.net/cmdln" htmlUrl="http://thecommandline.net/"/>
@@ -38,6 +38,7 @@
     <outline text="The Moth Podcast" title="The Moth Podcast" type="rss" xmlUrl="http://feeds.themoth.org/themothpodcast" htmlUrl="http://themoth.prx.org"/>
     <outline text="The Peace Revolution Podcast" title="The Peace Revolution Podcast" type="rss" xmlUrl="http://peacerevolution.podomatic.com/rss2.xml" htmlUrl="http://peacerevolution.podomatic.com"/>
     <outline text="The Radical Personal Finance Podcast: Financial Planning | Budgeting | Frugality | Investing | Lifestyle Design | Financial Independence" title="The Radical Personal Finance Podcast: Financial Planning | Budgeting | Frugality | Investing | Lifestyle Design | Financial Independence" type="rss" xmlUrl="http://radicalpersonalfinance.com/feed/" htmlUrl="http://radicalpersonalfinance.com"/>
+    <outline text="The Tim Ferriss Show" title="The Tim Ferriss Show" type="rss" xmlUrl="http://feeds.feedburner.com/thetimferrissshow" htmlUrl="http://www.fourhourblog.com "/>
     <outline text="This American Life" title="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="http://www.thisamericanlife.org"/>
     <outline text="Ubuntu Podcast » ogg" title="Ubuntu Podcast » ogg" type="rss" xmlUrl="http://feeds.feedburner.com/UbuntuUkPodcastOgg-high?format=xml" htmlUrl="http://podcast.ubuntu-uk.org"/>
   </body>
