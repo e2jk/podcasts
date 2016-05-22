@@ -2,12 +2,12 @@
 <opml version="2.0">
   <head>
     <title>AntennaPod Subscriptions</title>
-    <dateCreated>26 Apr 16 06:56:25 +0200</dateCreated>
+    <dateCreated>19 May 16 22:58:14 +0200</dateCreated>
   </head>
   <body>
     <outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="http://99percentinvisible.org"/>
     <outline text="Achieve Your Goals with Hal Elrod: Success | Productivity | Personal Development | Lifestyle | Business" title="Achieve Your Goals with Hal Elrod: Success | Productivity | Personal Development | Lifestyle | Business" type="rss" xmlUrl="http://halelrod.com/category/achieve-your-goals/feed/" htmlUrl="http://halelrod.com/category/achieve-your-goals/"/>
-    <outline text="Bad Voltage » MP3" title="Bad Voltage » MP3" type="rss" xmlUrl="http://www.badvoltage.org/feed/mp3/" htmlUrl="http://www.badvoltage.org"/>
+    <outline text="Bad Voltage" title="Bad Voltage" type="rss" xmlUrl="http://www.badvoltage.org/feed/mp3" htmlUrl="http://www.badvoltage.org"/>
     <outline text="BiggerPockets Podcast : Real Estate Investing and Wealth Building to Help You Get Bigger Pockets" title="BiggerPockets Podcast : Real Estate Investing and Wealth Building to Help You Get Bigger Pockets" type="rss" xmlUrl="http://www.biggerpockets.com/renewsblog/category/podcast/feed/" htmlUrl="https://www.biggerpockets.com/renewsblog/category/podcast/"/>
     <outline text="CRE: Technik, Kultur, Gesellschaft" title="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="http://cre.fm/feed/oga" htmlUrl="http://cre.fm"/>
     <outline text="Freakonomics Radio" title="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnyc.org/articles/freakonomics-podcast"/>
