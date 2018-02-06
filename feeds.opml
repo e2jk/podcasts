@@ -2,27 +2,32 @@
 <opml version="2.0">
   <head>
     <title>AntennaPod Subscriptions</title>
-    <dateCreated>26 Jun 17 19:32:18 +0200</dateCreated>
+    <dateCreated>31 Jan 18 12:03:38 +0100</dateCreated>
   </head>
   <body>
     <outline text="AvTalk - Aviation Podcast" title="AvTalk - Aviation Podcast" type="rss" xmlUrl="https://blog.flightradar24.com/blog/feed/podcast/" htmlUrl="https://blog.flightradar24.com/blog"/>
+    <outline text="BiggerPockets Money Podcast" title="BiggerPockets Money Podcast" type="rss" xmlUrl="http://biggerpocketsmoney.libsyn.com/rss" htmlUrl="http://biggerpocketsmoney.libsyn.com/website"/>
     <outline text="BiggerPockets Podcast : Real Estate Investing and Wealth Building to Help You Get Bigger Pockets" title="BiggerPockets Podcast : Real Estate Investing and Wealth Building to Help You Get Bigger Pockets" type="rss" xmlUrl="http://www.biggerpockets.com/renewsblog/category/podcast/feed/" htmlUrl="https://www.biggerpockets.com/renewsblog/category/podcast/"/>
     <outline text="CRE: Technik, Kultur, Gesellschaft" title="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="http://cre.fm/feed/oga" htmlUrl="http://cre.fm"/>
     <outline text="Dan Carlin's Hardcore History" title="Dan Carlin's Hardcore History" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" htmlUrl="http://www.dancarlin.com"/>
     <outline text="Freakonomics Radio" title="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnyc.org/articles/freakonomics-podcast"/>
-    <outline text="Freedom Fast Lane with Ryan Daniel Moran" title="Freedom Fast Lane with Ryan Daniel Moran" type="rss" xmlUrl="http://freedomfastlane.com/feed/podcast/" htmlUrl="http://freedomfastlane.com"/>
+    <outline text="Freedom Fast Lane with Ryan Daniel Moran" title="Freedom Fast Lane with Ryan Daniel Moran" type="rss" xmlUrl="http://freedomfastlane.com/feed/podcast/" htmlUrl="https://freedomfastlane.com"/>
     <outline text="Get Rich Education" title="Get Rich Education" type="rss" xmlUrl="http://getricheducation.libsyn.com/rss" htmlUrl="http://www.getricheducation.com"/>
+    <outline text="Les p'tits bateaux" title="Les p'tits bateaux" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_10137.xml" htmlUrl="http://www.franceinter.fr/emission-les-ptits-bateaux"/>
+    <outline text="Mama, tengo una pregunta" title="Mama, tengo una pregunta" type="rss" xmlUrl="https://mamatengounapregunta.com/podcast" htmlUrl="https://mamatengounapregunta.com"/>
     <outline text="Planet Money" title="Planet Money" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510289" htmlUrl="http://www.npr.org/planetmoney"/>
     <outline text="Radical Personal Finance: Financial Independence, Early Retirement, Investing, Insurance, Financial Planning" title="Radical Personal Finance: Financial Independence, Early Retirement, Investing, Insurance, Financial Planning" type="rss" xmlUrl="http://radicalpersonalfinance.libsyn.com/rss" htmlUrl="http://radicalpersonalfinance.com"/>
     <outline text="Radiolab" title="Radiolab" type="rss" xmlUrl="http://www.radiolab.org/feeds/podcast/" htmlUrl="http://www.radiolab.org/series/podcasts/"/>
+    <outline text="Radiolab Presents: More Perfect" title="Radiolab Presents: More Perfect" type="rss" xmlUrl="http://feeds.wnyc.org/moreperfect" htmlUrl="http://www.wnycstudios.org/shows/radiolabmoreperfect"/>
     <outline text="Rental Income Podcast With Dan Lane:  Landlord l Rental Property Owner l l Real Estate Investor l Passive Income l Find Good Tenants" title="Rental Income Podcast With Dan Lane:  Landlord l Rental Property Owner l l Real Estate Investor l Passive Income l Find Good Tenants" type="rss" xmlUrl="http://rentalincomepodcast.libsyn.com/rss" htmlUrl="http://www.RentalIncomePodcast.com"/>
     <outline text="Security Now (MP3)" title="Security Now (MP3)" type="rss" xmlUrl="http://leo.am/podcasts/sn" htmlUrl="https://twit.tv/shows/security-now"/>
     <outline text="Self Made Man" title="Self Made Man" type="rss" xmlUrl="http://selfmademan.libsyn.com/rss" htmlUrl="http://mikedillard.com/blog"/>
-    <outline text="Seth Godin's Startup School" title="Seth Godin's Startup School" type="rss" xmlUrl="http://rss.earwolf.com/startup-school" htmlUrl="https://art19.com/shows/startup-school"/>
     <outline text="Starting from Nothing - The Foundation Podcast | Building your business ENTIRELY from scratch." title="Starting from Nothing - The Foundation Podcast | Building your business ENTIRELY from scratch." type="rss" xmlUrl="http://thefoundation.libsyn.com/rss" htmlUrl="http://www.thefoundation.com"/>
     <outline text="The James Altucher Show" title="The James Altucher Show" type="rss" xmlUrl="http://altucher.stansberry.libsynpro.com/rss" htmlUrl="http://www.jamesaltucher.com/"/>
-    <outline text="The Tim Ferriss Show" title="The Tim Ferriss Show" type="rss" xmlUrl="http://timferriss.libsyn.com/rss" htmlUrl="http://www.fourhourworkweek.com"/>
+    <outline text="The Science of Success" title="The Science of Success" type="rss" xmlUrl="http://redorbit.podbean.com/feed/" htmlUrl="https://redorbit.podbean.com"/>
+    <outline text="The Tim Ferriss Show" title="The Tim Ferriss Show" type="rss" xmlUrl="https://rss.art19.com/tim-ferriss-show" htmlUrl="https://art19.com/shows/tim-ferriss-show"/>
     <outline text="The Tony Robbins Podcast" title="The Tony Robbins Podcast" type="rss" xmlUrl="http://tonyrobbins.libsyn.com/rss" htmlUrl="http://tonyrobbins.com/podcast"/>
+    <outline text="Tribe of Mentors" title="Tribe of Mentors" type="rss" xmlUrl="https://rss.art19.com/tribe-of-mentors" htmlUrl="https://art19.com/shows/tribe-of-mentors"/>
     <outline text="Tropical MBA - Entrepreneurship, Travel, and Lifestyle" title="Tropical MBA - Entrepreneurship, Travel, and Lifestyle" type="rss" xmlUrl="http://feeds.feedburner.com/GetPaidToTravelTheWorld-TheTropicalMba" htmlUrl="http://www.tropicalmba.com"/>
   </body>
 </opml>
