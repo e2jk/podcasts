@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opml version="2.0">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="1.0">
   <head>
-    <title>AntennaPod Subscriptions</title>
-    <dateCreated>13 Jun 18 21:44:39 +0200</dateCreated>
+    <title>PodcastAddict registration feeds</title>
+    <dateCreated>27 nov. 2018 7:43:27 PM</dateCreated>
+    <dateModified>27 nov. 2018 7:43:27 PM</dateModified>
   </head>
   <body>
-    <outline text="Akimbo: A Podcast from Seth Godin" title="Akimbo: A Podcast from Seth Godin" type="rss" xmlUrl="https://rss.art19.com/akimbo" htmlUrl="https://art19.com/shows/akimbo"/>
-    <outline text="AvTalk - Aviation Podcast" title="AvTalk - Aviation Podcast" type="rss" xmlUrl="https://blog.flightradar24.com/blog/feed/podcast/" htmlUrl="https://blog.flightradar24.com/blog"/>
-    <outline text="BiggerPockets Money Podcast: Changing How You View Money so You'll Need Bigger Pockets" title="BiggerPockets Money Podcast: Changing How You View Money so You'll Need Bigger Pockets" type="rss" xmlUrl="http://biggerpocketsmoney.libsyn.com/rss" htmlUrl="http://biggerpocketsmoney.libsyn.com/website"/>
-    <outline text="BiggerPockets Podcast : Real Estate Investing and Wealth Building to Help You Get Bigger Pockets" title="BiggerPockets Podcast : Real Estate Investing and Wealth Building to Help You Get Bigger Pockets" type="rss" xmlUrl="http://www.biggerpockets.com/renewsblog/category/podcast/feed/" htmlUrl="https://www.biggerpockets.com/renewsblog/category/podcast/"/>
-    <outline text="Cardone Zone" title="Cardone Zone" type="rss" xmlUrl="http://podcasts.grantcardone.com/xml/cardonezone.xml" htmlUrl="http://www.grantcardone.com"/>
-    <outline text="CRE: Technik, Kultur, Gesellschaft" title="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="http://cre.fm/feed/oga" htmlUrl="http://cre.fm"/>
-    <outline text="Dan Carlin's Hardcore History" title="Dan Carlin's Hardcore History" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" htmlUrl="http://www.dancarlin.com"/>
-    <outline text="Freakonomics Radio" title="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnycstudios.org/articles/freakonomics-podcast"/>
-    <outline text="Get Rich Education" title="Get Rich Education" type="rss" xmlUrl="http://getricheducation.libsyn.com/rss" htmlUrl="http://www.getricheducation.com"/>
-    <outline text="Jocko Podcast" title="Jocko Podcast" type="rss" xmlUrl="http://jockopodcast.libsyn.com/rss" htmlUrl="http://jockopodcast.com"/>
-    <outline text="Les p'tits bateaux" title="Les p'tits bateaux" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_10137.xml" htmlUrl="http://www.radiofrance.fr/"/>
-    <outline text="Mama, tengo una pregunta" title="Mama, tengo una pregunta" type="rss" xmlUrl="https://mamatengounapregunta.com/podcast" htmlUrl="https://mamatengounapregunta.com"/>
-    <outline text="Planet Money" title="Planet Money" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510289" htmlUrl="https://www.npr.org/planetmoney"/>
-    <outline text="Podcasts (Radiolab)" title="Podcasts (Radiolab)" type="rss" xmlUrl="https://www.wnycstudios.org/feeds/series/podcasts/?limit=150" htmlUrl="http://www.wnycstudios.org/series/podcasts"/>
-    <outline text="Radical Personal Finance: Financial Independence, Early Retirement, Investing, Insurance, Financial Planning" title="Radical Personal Finance: Financial Independence, Early Retirement, Investing, Insurance, Financial Planning" type="rss" xmlUrl="http://radicalpersonalfinance.libsyn.com/rss" htmlUrl="http://radicalpersonalfinance.com"/>
-    <outline text="Radiolab Presents: More Perfect" title="Radiolab Presents: More Perfect" type="rss" xmlUrl="http://feeds.wnyc.org/moreperfect" htmlUrl="http://www.wnycstudios.org/shows/radiolabmoreperfect"/>
-    <outline text="Security Now (MP3)" title="Security Now (MP3)" type="rss" xmlUrl="http://leo.am/podcasts/sn" htmlUrl="https://twit.tv/shows/security-now"/>
-    <outline text="Starting from Nothing - The Foundation Podcast | Building your business ENTIRELY from scratch." title="Starting from Nothing - The Foundation Podcast | Building your business ENTIRELY from scratch." type="rss" xmlUrl="http://thefoundation.libsyn.com/rss" htmlUrl="http://www.thefoundation.com"/>
-    <outline text="The James Altucher Show" title="The James Altucher Show" type="rss" xmlUrl="http://altucher.stansberry.libsynpro.com/rss" htmlUrl="http://www.jamesaltucher.com/"/>
-    <outline text="The Tim Ferriss Show" title="The Tim Ferriss Show" type="rss" xmlUrl="https://rss.art19.com/tim-ferriss-show" htmlUrl="https://art19.com/shows/tim-ferriss-show"/>
+    <outline text="AvTalk - Aviation Podcast" type="rss" xmlUrl="https://www.flightradar24.com/blog/feed/podcast/" htmlUrl="https://www.flightradar24.com/blog"/>
+    <outline text="BiggerPockets Money Podcast: Changing How You View Money so You'll Need Bigger Pockets" type="rss" xmlUrl="http://biggerpocketsmoney.libsyn.com/rss" htmlUrl="http://biggerpocketsmoney.libsyn.com/website"/>
+    <outline text="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="http://cre.fm/feed/oga" htmlUrl="http://cre.fm"/>
+    <outline text="Dan Carlin's Hardcore History" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" htmlUrl="http://www.dancarlin.com"/>
+    <outline text="Get Rich Education | Real Estate Investing" type="rss" xmlUrl="http://getricheducation.libsyn.com/rss" htmlUrl="http://www.getricheducation.com"/>
+    <outline text="Learn Hebrew | HebrewPod101.com" type="rss" xmlUrl="https://www.hebrewpod101.com/wp/wp-feed-audio-video.php" htmlUrl="https://www.hebrewpod101.com"/>
+    <outline text="Les p'tits bateaux" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_10137.xml" htmlUrl="http://www.radiofrance.fr/"/>
+    <outline text="Mama, tengo una pregunta" type="rss" xmlUrl="https://mamatengounapregunta.com/podcast" htmlUrl="https://mamatengounapregunta.com"/>
+    <outline text="Oli" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_19721.xml" htmlUrl="http://www.radiofrance.fr/"/>
+    <outline text="Security Now (MP3)" type="rss" xmlUrl="http://leo.am/podcasts/sn" htmlUrl="https://twit.tv/shows/security-now"/>
+    <outline text="The BiggerPockets Real Estate Investing Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/RealEstateNewsForReal" htmlUrl="https://www.biggerpockets.com/podcast"/>
+    <outline text="The James Altucher Show" type="rss" xmlUrl="http://altucher.stansberry.libsynpro.com/rss" htmlUrl="https://jamesaltucher.com/"/>
+    <outline text="The Jordan B. Peterson Podcast" type="rss" xmlUrl="https://feeds.blubrry.com/feeds/jordanbpeterson.xml" htmlUrl="http://jordanbpeterson.com/jordan-b-peterson-podcast/"/>
+    <outline text="The Tim Ferriss Show" type="rss" xmlUrl="https://rss.art19.com/tim-ferriss-show" htmlUrl="https://tim.blog/podcast"/>
+    <outline text="Valuetainment Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:278526049/sounds.rss" htmlUrl="http://www.patrickbetdavid.com"/>
   </body>
 </opml>
